@@ -7,8 +7,8 @@ on:
 
 # 自定义环境变量，这个GIT_USER和GIT_EMAIL配置成你自己的，GIT_EMAIL尽量和上面的`ssh-keygen -f hexo-deploy-key -C "your email"`中的your email保持一致
 env:
-  GIT_USER: 你的github名字
-  GIT_EMAIL: 你的邮箱
+  GIT_USER: MeesuMaes
+  GIT_EMAIL: maesmeesu@gmail.com
 
 jobs:
   build-and-deploy:
