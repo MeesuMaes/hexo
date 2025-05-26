@@ -61,5 +61,5 @@ ignore: null
 theme: hexo-theme-cola
 deploy:
   type: git
-  repo: https://github.com/MeesuMaes/mensu.git
+  repo: https://github.com/MeesuMaes/MeesuMaes.github.io
   branch: main 
